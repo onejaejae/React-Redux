@@ -3,9 +3,6 @@ import AddNumberRoot from './components/AddNumberRoot';
 import DisplayNumberRoot from './components/DisplayNumberRoot';
 import './App.css';
 
-
-
-
 function App() {
   
   return (
