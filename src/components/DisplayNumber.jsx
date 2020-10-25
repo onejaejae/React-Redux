@@ -8,7 +8,7 @@ export default class DisplayNumber extends Component {
       return (
         <div>
           <h1>Display Number</h1>
-          <input type="text" value={ size } readOnly/>
+          <input type="text" value={ size } readOnly/>{this.props.unit}
         </div>
       )
     }
